@@ -1,5 +1,0 @@
-name: WildCommons
-main: wild.core.WildCommonsPlugin
-version: 1.0
-
-load: STARTUP
